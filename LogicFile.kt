@@ -1,0 +1,5 @@
+package coursework
+
+class LogicFile {
+
+}
